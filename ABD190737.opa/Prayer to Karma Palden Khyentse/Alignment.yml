@@ -1,0 +1,25 @@
+segment_sources:
+  P52E19153:
+    type: origin_type
+    relation: translation
+    language: en
+  P6CC3CCC1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  82638b7ecaf54d5da7ff251434816d23:
+    P52E19153: de9617ade1d54c48a7d7ddd206e223b0
+    P6CC3CCC1: 765fa4398807480991d8bb662fb926fa
+  bd161a9992bb4257985f1e1ba68174c3:
+    P52E19153: 79a8e057ca3141368ede80af1dafd6fc
+    P6CC3CCC1: 720fde2335384709afe00dbdb6daad0b
+  f789a4658fce46a6b45bbc1d4ce9de7f:
+    P52E19153: db7a9b75e8564239815d13e510310e0e
+    P6CC3CCC1: 92f97946fa1346bead1d5e93f953b67f
+  beb9f72084714ebe90edc53f50e3cba2:
+    P52E19153: ce223d37617245cf9d80ae3d4b85d7c2
+    P6CC3CCC1: d7b0897e960f4089b5d16b120812df06
+  2df08e6466854215954a3750f775f53b:
+    P52E19153: f5b7f1709460458d9240ed07cf7238d6
+    P6CC3CCC1: e5fdbac8dc0048dca8fb235ff9e923e3
